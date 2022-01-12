@@ -16,13 +16,13 @@ const ArticleCard = ({ article }) => {
         src={article.cover_image}
         alt={article.title}
         width={300}
-        height={150}
+        height={175}
       />
       <div className={styles.content}>
         <h3 className={styles.title}>{article.title}</h3>
         <p>{article.description}</p>
       </div>
-      <div className={styles.stats}>
+      {/* <div className={styles.stats}>
         <div className={styles.stat}>
           <EyeIcon className={styles.icon} /> {article.page_views_count}
         </div>
@@ -32,7 +32,7 @@ const ArticleCard = ({ article }) => {
         <div className={styles.stat}>
           <CommentIcon className={styles.icon} /> {article.comments_count}
         </div>
-      </div>
+      </div> */}
     </a>
   );
 };
