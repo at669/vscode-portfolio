@@ -14,7 +14,7 @@ const RepoCard = ({ repo }) => {
       </div>
       <div className={styles.stats}>
         <div>
-          <div>
+          {/* <div>
             <WatchIcon className={styles.icon} /> {repo.watchers}
           </div>
           <div>
@@ -22,7 +22,7 @@ const RepoCard = ({ repo }) => {
           </div>
           <div>
             <StarIcon className={styles.icon} /> {repo.stargazers_count}
-          </div>
+          </div> */}
         </div>
         <div>
           <a href={repo.html_url} target="_blank" rel="noopener noreferrer">

@@ -3,8 +3,8 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'at669.github.io',
-    href: 'https://at669.github.io',
+    link: 'amandatrang.vercel.app',
+    href: 'https://amandatrang.vercel.app',
   },
   // {
   //   social: 'email',
@@ -32,7 +32,7 @@ const ContactCode = () => {
   return (
     <div className={styles.code}>
       <p className={styles.line}>
-        <span className={styles.className}>.socials</span> &#123;
+        <span className={styles.className}>.contact</span> &#123;
       </p>
       {contactItems.slice(0, 8).map((item, index) => (
         <p className={styles.line} key={index}>

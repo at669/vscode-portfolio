@@ -2,16 +2,16 @@
   {
     "id": 1,
     "name": "Unity Robotics",
-    "image": "https://github.com/Unity-Technologies/Unity-Robotics-Hub/raw/main/images/warehouse.gif",
+    "image": "https://blog-api.unity.com/sites/default/files/styles/focal_crop_ratio_3_1/public/2020/11/image5-2.png?imwidth=1920&h=2dd6ec4d&itok=Rr8LfgKY",
     "description": "Tools, tutorials, resources, and documentation for robotics simulation in Unity.",
     "tags": ["unity", "csharp", "robotics", "ros", "python"],
     "source_code": "https://github.com/Unity-Technologies/Unity-Robotics-Hub/",
-    "demo": "https://driwwwle.com/"
+    "demo": "https://unity.com/solutions/automotive-transportation-manufacturing/robotics/"
   },
   {
     "id": 2,
     "name": "Shujinkou",
-    "image": "https://www.shujinkou.net/images/screenshots/Yajuu1.jpg",
+    "image": "https://www.shujinkou.net/images/downloads/PC_All.jpg",
     "description": "An story-driven Japanese language learning game.",
     "tags": ["unity", "csharp", "game-dev"],
     "demo": "https://www.shujinkou.net/"
@@ -19,7 +19,7 @@
   {
     "id": 3,
     "name": "Thermics",
-    "image": "https://imgur.com/8FFqaX8.png",
+    "image": "https://github.com/at669/cs5678/blob/master/Media/readme/exp.gif?raw=true",
     "description": "A research project on the effects of tactile thermal feedback in virtual reality.",
     "tags": ["unity", "csharp", "xr", "hardware"],
     "source_code": "https://github.com/at669/cs5678",
@@ -28,16 +28,16 @@
   {
     "id": 4,
     "name": "Let's Gogh!",
-    "image": "https://imgur.com/mKkz0iz.png",
+    "image": "/../public/img/gogh.gif",
     "description": "An Oculus Quest application that takes users into their favorite paintings.",
     "tags": ["unity", "csharp", "xr"],
-    "source_code": "https://sites.google.com/cornell.edu/cs5650-projects-2019/projects/lets-gogh?authuser=0",
-    "demo": "https://github.com/at669/project-2019-g01-let-s-gogh"
+    "source_code": "https://github.com/at669/project-2019-g01-let-s-gogh",
+    "demo": "https://sites.google.com/cornell.edu/cs5650-projects-2019/projects/lets-gogh?authuser=0"
   },
   {
     "id": 5,
     "name": "Cluck Cluck Moose",
-    "image": "https://play-lh.googleusercontent.com/D5OqXaqTx9I-IrAvkiqxioJsWUYjQixgQ-6cpsnJ5jASG0_BehaIJEVCjy4CVyt87D8=s180-rw",
+    "image": "/../public/img/ccm.png",
     "description": "A mobile chicken-stacking RPS game with lots of bad puns. Now on the Play Store!",
     "tags": ["game-dev", "cpp"],
     "source_code": "https://github.com/ZRich098/CluckCluckMoose",
@@ -49,14 +49,6 @@
     "image": "https://github.com/Oliviafx/cs3152-game/raw/master/readme-art/logo.jpg",
     "description": "A puzzle/stealth game set in 1920s Paris. A BostonFIG 2018 digital showcase game.",
     "tags": ["game-dev", "java"],
-    "source_code": "https://github.com/Oliviafx/cs3152-game"
-  },
-  {
-    "id": 7,
-    "name": "OSAM-1: Kodiak Emulator",
-    "image": "https://nexis.gsfc.nasa.gov/images/Restore_Image_300ppi_03web.jpg",
-    "description": "A data arbiter to manage the LiDAR emulator's rx/tx transactions.",
-    "tags": ["hardware", "cpp", "python"],
     "source_code": "https://github.com/Oliviafx/cs3152-game"
   }
 ]
