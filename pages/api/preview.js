@@ -4,5 +4,5 @@ export default function handler(req, res) {
 }
 
 export async function getStaticProps(context) {
-    const res = await fetch(`https://amandatrang.vercel.app/${context.preview ? 'preview' : ''`)
+    const res = await fetch(`https://amandatrang.vercel.app/${context.preview ? 'preview' : ''}`)
 }
