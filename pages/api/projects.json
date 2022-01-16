@@ -28,7 +28,7 @@
   {
     "id": 4,
     "name": "Let's Gogh!",
-    "image": "/../public/img/gogh.gif",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/dev/public/img/gogh.gif",
     "description": "An Oculus Quest application that takes users into their favorite paintings.",
     "tags": ["unity", "csharp", "xr"],
     "source_code": "https://github.com/at669/project-2019-g01-let-s-gogh",
@@ -37,7 +37,7 @@
   {
     "id": 5,
     "name": "Cluck Cluck Moose",
-    "image": "/../public/img/ccm.png",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/dev/public/img/ccm.png",
     "description": "A mobile chicken-stacking RPS game with lots of bad puns. Now on the Play Store!",
     "tags": ["game-dev", "cpp"],
     "source_code": "https://github.com/ZRich098/CluckCluckMoose",
