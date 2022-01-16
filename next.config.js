@@ -10,7 +10,8 @@ module.exports = {
       'github.com',
       'www.shujinkou.net',
       'play-lh.googleusercontent.com',
-      'nexis.gsfc.nasa.gov'
+      'nexis.gsfc.nasa.gov',
+      'raw.githubusercontent.com'
     ],
   },
 };

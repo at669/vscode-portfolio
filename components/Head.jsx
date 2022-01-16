@@ -15,7 +15,7 @@ const CustomHead = ({ title }) => {
       <meta property="og:title" content="Amanda Trang's Portfolio" />
       <meta
         property="og:description"
-        content="Amanda."
+        content="This is Amanda's site!"
       />
       <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
       <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
