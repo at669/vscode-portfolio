@@ -4,9 +4,9 @@ import styles from '../styles/ProjectCard.module.css';
 const ProjectCard = ({ project }) => {
   return (
     <div className={styles.card}>
-      <Image src={project.image} height={300} width={600} alt={project.name} objectFit='cover' />
+      <a href={project.demo}><Image src={project.image} height={300} width={600} alt={project.name} objectFit='cover' /></a>
       <div className={styles.content}>
-        <h3>{project.name}</h3>
+        <a href={project.demo} style={{ color: 'inherit', textDecoration: 'inherit'}}><h3>{project.name}</h3></a>
         <p>{project.description}</p>
         <div className={styles.tags}>
           {project.tags.map((tag) => (
