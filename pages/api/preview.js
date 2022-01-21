@@ -1,5 +1,5 @@
 export default function handler(req, res) {
-    res.setPreviewData({})
+    res.setPreviewData(getStaticProps)
     res.end('Preview mode enabled')
 }
 
