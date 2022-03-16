@@ -17,8 +17,8 @@ const CustomHead = ({ title }) => {
         property="og:description"
         content="This is Amanda's site!"
       />
-      <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
+      <meta property="og:image" content="https://imgur.com/bsat11O.png" />
+      <meta property="og:url" content="https://amandatrang.vercel.app/" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
