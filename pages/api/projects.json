@@ -12,7 +12,7 @@
     "id": 2,
     "name": "The Killing Tree",
     "image": "/../public/img/ggj23.jpg",
-    "description": "A casual asymmetric horror game made in one week.",
+    "description": "A casual asymmetric horror game.",
     "tags": ["unity", "csharp", "game-dev"],
     "demo": "https://leftout.itch.io/the-killing-tree"
   },
