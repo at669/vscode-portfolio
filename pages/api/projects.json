@@ -36,7 +36,7 @@
   {
     "id": 5,
     "name": "Let's Gogh!",
-    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/02022024/public/img/gogh.gif",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/02022024/public/img/gogh.png",
     "description": "An Oculus Quest application that takes users into their favorite paintings.",
     "tags": ["unity", "csharp", "xr"],
     "source_code": "https://github.com/at669/project-2019-g01-let-s-gogh",
