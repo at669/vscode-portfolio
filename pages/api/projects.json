@@ -1,52 +1,60 @@
 [
   {
     "id": 1,
-    "name": "Unity Robotics",
+    "name": "Unity Simulation Pro",
     "image": "https://blog-api.unity.com/sites/default/files/styles/focal_crop_ratio_3_1/public/2020/11/image5-2.png?imwidth=1920&h=2dd6ec4d&itok=Rr8LfgKY",
-    "description": "Tools, tutorials, resources, and documentation for robotics simulation in Unity.",
+    "description": "Tools, tutorials, resources, and documentation for robotic and industrial simulation in Unity.",
     "tags": ["unity", "csharp", "robotics", "ros", "python"],
     "source_code": "https://github.com/Unity-Technologies/Unity-Robotics-Hub/",
-    "demo": "https://unity.com/solutions/automotive-transportation-manufacturing/robotics/"
+    "demo": "https://unity.com/products/unity-simulation-pro"
   },
   {
     "id": 2,
-    "name": "Shujinkou",
-    "image": "https://www.shujinkou.net/images/downloads/PC_All.jpg",
-    "description": "An story-driven Japanese language learning game.",
+    "name": "The Killing Tree",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/02022024/public/img/ggj23.jpg",
+    "description": "A casual asymmetric horror game.",
     "tags": ["unity", "csharp", "game-dev"],
-    "demo": "https://www.shujinkou.net/"
+    "demo": "https://leftout.itch.io/the-killing-tree"
   },
   {
     "id": 3,
+    "name": "Shujinkou",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/02022024/public/img/sjk.jpg",
+    "description": "An story-driven Japanese language learning game.",
+    "tags": ["unity", "csharp", "game-dev", "python"],
+    "demo": "https://store.steampowered.com/app/1386630/Shujinkou/"
+  },
+  {
+    "id": 4,
     "name": "Thermics",
-    "image": "https://github.com/at669/cs5678/blob/master/Media/readme/exp.gif?raw=true",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/02022024/public/img/thermics.gif",
     "description": "A research project on the effects of tactile thermal feedback in virtual reality.",
     "tags": ["unity", "csharp", "xr", "hardware"],
     "source_code": "https://github.com/at669/cs5678",
     "demo": "https://sites.google.com/cornell.edu/cs5678-2020sp-projects/home/thermics"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Let's Gogh!",
-    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/dev/public/img/gogh.gif",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/02022024/public/img/gogh.png",
     "description": "An Oculus Quest application that takes users into their favorite paintings.",
     "tags": ["unity", "csharp", "xr"],
     "source_code": "https://github.com/at669/project-2019-g01-let-s-gogh",
     "demo": "https://sites.google.com/cornell.edu/cs5650-projects-2019/projects/lets-gogh?authuser=0"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Cluck Cluck Moose",
-    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/dev/public/img/ccm.png",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/02022024/public/img/ccm.png",
     "description": "A mobile chicken-stacking RPS game with lots of bad puns. Now on the Play Store!",
     "tags": ["game-dev", "cpp"],
     "source_code": "https://github.com/ZRich098/CluckCluckMoose",
     "demo": "https://play.google.com/store/apps/details?id=com.wingingitstudios.ccm&hl=en_US"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "City of Light",
-    "image": "https://github.com/Oliviafx/cs3152-game/raw/master/readme-art/logo.jpg",
+    "image": "https://raw.githubusercontent.com/at669/vscode-portfolio/02022024/public/img/city.jpg",
     "description": "A puzzle/stealth game set in 1920s Paris. A BostonFIG 2018 digital showcase game.",
     "tags": ["game-dev", "java"],
     "source_code": "https://github.com/Oliviafx/cs3152-game"

@@ -1,7 +1,7 @@
 [
     {
         "id": 2,
-        "url": "https://resources.unity.com/ai-ml-content/roscon2021",
+        "url": "https://roscon.ros.org/world/2021/",
         "cover_image": "https://content.cdntwrk.com/files/aHViPTEwODAwMiZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MGRiYWJlNzM0ZmNiLlBORyZ2ZXJzaW9uPTAwMDAmc2lnPTgyNzZhNjRjNWUwMTA0NDRkYTRkMmMyYmEzNDhiMjBj",
         "title": "ROS World 2021: Simulating multiple mobile warehouse robots",
         "description": "A workshop on how to use a game engine and ROS2 to simulate multiple mobile robots that perform object pose estimation in order to complete a “find-and-ferry” task.",
