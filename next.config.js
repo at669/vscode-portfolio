@@ -7,9 +7,7 @@ module.exports = {
       'content.cdntwrk.com',
       'blog-api.unity.com',
       'github.com',
-      'www.shujinkou.net',
       'play-lh.googleusercontent.com',
-      'nexis.gsfc.nasa.gov',
       'raw.githubusercontent.com'
     ],
   },

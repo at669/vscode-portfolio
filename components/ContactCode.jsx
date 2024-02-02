@@ -1,21 +1,16 @@
 import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
-  {
-    social: 'website',
-    link: 'amandatrang.vercel.app',
-    href: 'https://amandatrang.vercel.app',
-  },
+  // {
+  //   social: 'website',
+  //   link: 'amandatrang.vercel.app',
+  //   href: 'https://amandatrang.vercel.app',
+  // },
   // {
   //   social: 'email',
   //   link: 'a@a.a',
   //   href: 'mailto:a@a.a',
   // },
-  {
-    social: 'github',
-    link: 'at669',
-    href: 'https://github.com/at669',
-  },
   {
     social: 'linkedin',
     link: 'amandatrang',
@@ -25,6 +20,11 @@ const contactItems = [
     social: 'itch.io',
     link: 'amango',
     href: 'https://amango.itch.io/',
+  },
+  {
+    social: 'github',
+    link: 'at669',
+    href: 'https://github.com/at669',
   },
 ];
 

@@ -69,7 +69,7 @@ export async function getStaticProps() {
     }
   );
   let repos = await repoRes.json();
-  repos = repos
+  repos = [].slice.call(repos)
     .sort((a, b) => b.stargazers_count - a.stargazers_count)
     .slice(0, 6);
 
